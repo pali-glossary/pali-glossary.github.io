@@ -8,6 +8,8 @@ description: Pāli language glossary and dictionary with examples from the Thera
 external-image: false
 picture: assets/images/profile.jpg
 
+exclude: [ "Gemfile", "Gemfile.lock", "dist/", ]
+
 url: https://pali-glossary.github.io
 
 permalink: /:title/
@@ -50,7 +52,7 @@ animation: true
 plugins:
   - jekyll-seo-tag
   - jekyll-gist
-  - jekyll-feed
+  #- jekyll-feed
   - jemoji
   - jekyll-admin
 
