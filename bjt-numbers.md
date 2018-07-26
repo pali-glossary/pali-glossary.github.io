@@ -7,7 +7,7 @@ title: Suttas and Vinaya - Pali and BJT numbers
 
 Download:
 
-[Suttas and Vinaya - Pali and BJT numbers.txt](content/Suttas and Vinaya - Pali and BJT numbers.txt) (22 MB)
+[Suttas and Vinaya - Pali and BJT numbers.txt](../content/Suttas and Vinaya - Pali and BJT numbers.txt) (22 MB)
 
 This BJT Pāli Research File stems from the digital edition of the Sri Lanka
 Buddha Jayanti Tripiṭaka produced by the [The Sri Lanka Tripitaka
